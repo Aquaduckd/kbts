@@ -1,0 +1,13 @@
+{
+  "name": "kbts",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2"
+  }
+}

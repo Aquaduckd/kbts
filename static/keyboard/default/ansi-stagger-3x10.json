@@ -1,0 +1,189 @@
+{
+    "name": "Ansi Stagger 3x10",
+    "rows": 3,
+    "cols": 10,
+    "flow": "horizontal",
+    "keys": {
+        "1,0": {
+            "offsetX": 2,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "left"
+        },
+        "2,0": {
+            "offsetX": 6,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "left"
+        },
+        "0,0": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "left"
+        },
+        "0,1": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "left"
+        },
+        "1,1": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "left"
+        },
+        "2,1": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "left"
+        },
+        "0,2": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "left"
+        },
+        "1,2": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "left"
+        },
+        "2,2": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "left"
+        },
+        "0,3": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "1,3": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "2,3": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "0,4": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "1,4": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "2,4": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "left"
+        },
+        "0,5": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "1,5": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "2,5": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "0,6": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "1,6": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "2,6": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "index",
+            "hand": "right"
+        },
+        "0,7": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "right"
+        },
+        "1,7": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "right"
+        },
+        "2,7": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "middle",
+            "hand": "right"
+        },
+        "0,8": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "right"
+        },
+        "1,8": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "right"
+        },
+        "2,8": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "ring",
+            "hand": "right"
+        },
+        "0,9": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "right"
+        },
+        "1,9": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "right"
+        },
+        "2,9": {
+            "offsetX": 0,
+            "offsetY": 0,
+            "finger": "pinky",
+            "hand": "right"
+        }
+    },
+    "lineKeyCounts": {}
+}

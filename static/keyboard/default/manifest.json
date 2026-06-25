@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ansi-stagger-3x10",
+    "file": "ansi-stagger-3x10.json",
+    "label": "Ansi Stagger 3x10"
+  },
+  {
+    "id": "ortho-stagger-3x10",
+    "file": "ortho-stagger-3x10.json",
+    "label": "Ortho Stagger 3x10"
+  }
+]

@@ -1,0 +1,110 @@
+{
+    "name": "Pine V4",
+    "shape": {
+        "source": "default",
+        "keyboardId": "ansi-stagger-3x10",
+        "shapeKey": "default:ansi-stagger-3x10",
+        "sourceLabel": "Default",
+        "keyboardLabel": "Ansi Stagger 3x10",
+        "summary": {
+            "rows": 3,
+            "cols": 10,
+            "flow": "horizontal",
+            "keyCount": 30
+        }
+    },
+    "characters": {
+        "keys": {
+            "0,0": {
+                "primary": "q"
+            },
+            "0,1": {
+                "primary": "l"
+            },
+            "0,2": {
+                "primary": "c"
+            },
+            "0,3": {
+                "primary": "m"
+            },
+            "0,4": {
+                "primary": "k"
+            },
+            "0,5": {
+                "primary": "'"
+            },
+            "0,6": {
+                "primary": "f"
+            },
+            "0,7": {
+                "primary": "u"
+            },
+            "0,8": {
+                "primary": "o"
+            },
+            "0,9": {
+                "primary": "y"
+            },
+            "1,0": {
+                "primary": "n"
+            },
+            "1,1": {
+                "primary": "r"
+            },
+            "1,2": {
+                "primary": "s"
+            },
+            "1,3": {
+                "primary": "t"
+            },
+            "1,4": {
+                "primary": "w"
+            },
+            "1,5": {
+                "primary": "p"
+            },
+            "1,6": {
+                "primary": "h"
+            },
+            "1,7": {
+                "primary": "e"
+            },
+            "1,8": {
+                "primary": "a"
+            },
+            "1,9": {
+                "primary": "i"
+            },
+            "2,0": {
+                "primary": "j"
+            },
+            "2,1": {
+                "primary": "x"
+            },
+            "2,2": {
+                "primary": "z"
+            },
+            "2,3": {
+                "primary": "g"
+            },
+            "2,4": {
+                "primary": "v"
+            },
+            "2,5": {
+                "primary": "b"
+            },
+            "2,6": {
+                "primary": "d"
+            },
+            "2,7": {
+                "primary": ";"
+            },
+            "2,8": {
+                "primary": ","
+            },
+            "2,9": {
+                "primary": "."
+            }
+        }
+    }
+}
